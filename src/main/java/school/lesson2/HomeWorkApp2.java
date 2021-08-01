@@ -1,9 +1,6 @@
 package school.lesson2;
 
-import school.lesson1.HomeWorkApp;
 
-import java.util.Random;
-import java.util.Scanner;
 
 public class HomeWorkApp2 {
     public static void main(String[] args) {
