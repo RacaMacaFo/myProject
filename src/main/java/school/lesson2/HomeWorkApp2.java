@@ -1,7 +1,4 @@
 package school.lesson2;
-
-
-
 public class HomeWorkApp2 {
     public static void main(String[] args) {
         HomeWorkApp2 task = new HomeWorkApp2();
@@ -69,7 +66,6 @@ public class HomeWorkApp2 {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = i + 1;
         }
-
         for (int i : arr) {
             System.out.print(i + " ");
         }
@@ -102,33 +98,13 @@ public class HomeWorkApp2 {
         }
     }
 
-    public void taskTen(int len, int initialvalue) {
+    public void taskTen(int len, int initialValue) {
         int[] arr = new int[len];
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = initialvalue;
+            arr[i] = initialValue;
         }
         for (int i : arr) {
             System.out.print(i + " ");
         }
     }
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
