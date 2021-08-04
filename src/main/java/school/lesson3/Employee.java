@@ -25,7 +25,7 @@ public class Employee {
 
     public static void main(String[] args) {
         Employee[]corpZBS = new Employee[5];
-        corpZBS[0] = new Employee("Jesus Cris","Creator","godbless@gmail.com", "80637777777",30000 , 33);
+        corpZBS[0] = new Employee("Jesus Cris","Creator","GodBless@gmail.com", "80637777777",30000 , 33);
         corpZBS[1] = new Employee("Nikola Tesla","Inventor","N.Tesla@gmail.com", "80631112233",20000 , 86);
         corpZBS[2] = new Employee("Genghis Khan","Conqueror","GenghisCoolMan@gmail.com", "80632223344",10000 , 65);
         corpZBS[3] = new Employee("Justin Bieber ","PopStar","PopsaHernya@gmail.com", "80633334455",1000 , 27);
